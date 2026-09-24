@@ -8,5 +8,5 @@ A multi-vendor e-commerce platform where independent sellers list handmade produ
 * Mahmoud Ashraf
 
 ## Team Leader
-#Name: Fady Mamdouh
-#Phone: 01157945121
+ #Name: Fady Mamdouh
+ #Phone: 01157945121
