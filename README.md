@@ -6,6 +6,10 @@ A multi-vendor e-commerce platform where independent sellers list handmade produ
 * Youssef Ahmed
 * Mohamed Shazly
 * Mahmoud Ashraf
+* Tarek Mohamed
+* Mohamed Hamdy
+* Mohammed Abdul Jabbar
+* Marawan Salah
 
 ## Team Leader
 * Name: Fady Mamdouh
