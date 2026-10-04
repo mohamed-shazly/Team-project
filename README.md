@@ -10,7 +10,7 @@ A multi-vendor e-commerce platform where independent sellers list handmade produ
 * Mohamed Hamdy
 * Mohammed Abdul Jabbar
 * Marawan Salah
-
+* Karim Essam
 ## Team Leader
 * Name: Fady Mamdouh
 * Phone: 01157945121
